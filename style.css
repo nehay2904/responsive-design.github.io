@@ -1,0 +1,9 @@
+.col{
+    border: 2px solid red;
+    margin: 25px;
+    padding: 25px;
+}
+
+.container{
+    background-color: rgb(255, 119, 119);
+}
